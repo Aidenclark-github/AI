@@ -12,23 +12,25 @@
 
 Sections in the main syllabus (this) page:
 
-  - [Instructor & contact information](#instructor---contact-information)
-  - [Course description in UMSL catalog](#course-description-in-umsl-catalog)
-  - [Prerequisites](#prerequisites)
-  - [Learning outcomes](#learning-outcomes)
-  - [Textbook](#textbook)
-  - [Course topics](#course-topics)
-  - [Academic honesty](#academic-honesty)
-  - [Programming language](#programming-language)
-  - [Due dates and late policy](#due-dates-and-late-policy)
-  - [Homeworks](#homeworks)
-  - [Quizzes](#quizzes)
-  - [In-person tests](#in-person-tests)
-  - [Grade composition](#grade-composition)
-  - [Grading scheme](#grading-scheme)
-  - [Resources](#resources)
-  - [What students say](#what-students-say)
-
+  * [Instructor & contact information](#instructor---contact-information)
+  * [Course description in UMSL catalog](#course-description-in-umsl-catalog)
+  * [Prerequisites](#prerequisites)
+  * [Learning outcomes](#learning-outcomes)
+  * [Textbook](#textbook)
+  * [Course topics](#course-topics)
+  * [Academic honesty](#academic-honesty)
+  * [Programming language](#programming-language)
+  * [Due dates and late policy](#due-dates-and-late-policy)
+  * [Homeworks](#homeworks)
+  * [Concept-map homeworks](#concept-map-homeworks)
+  * [Quizzes](#quizzes)
+  * [In-person tests](#in-person-tests)
+  * [Grade composition](#grade-composition)
+  * [Grading scheme](#grading-scheme)
+  * [Instructions for taking a quiz using Proctrio](#instructions-for-taking-a-quiz-using-proctrio)
+  * [Using Overleaf](#using-overleaf)
+  * [Resources](#resources)
+  * [What other students (who took this course) say](#what-other-students--who-took-this-course--say)
 <hr>
 
 ## Instructor & contact information
