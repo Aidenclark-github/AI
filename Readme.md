@@ -4,6 +4,14 @@
 # Syllabus of Artificial Intelligence (CS 4300/5300)
 
   * [Instructor & contact information](#instructor---contact-information)
+  * [Lectures](./Lectures.md)
+  * [Homeworks](./Homeworks.md)
+  * [NN-using-TF](NN-using-TF.md)
+  * [Overleaf](Overleaf.md)
+  * [Proctoring](Proctoring.md)
+  * [Project](Project.md)
+  * [Schedule](Schedule.md)
+
   * [Course description in UMSL catalog](#course-description-in-umsl-catalog)
   * [Prerequisites](#prerequisites)
   * [Learning outcomes](#learning-outcomes)
@@ -93,6 +101,17 @@ Python3 is language for the course; you are expected to use Python3 for all of y
 ## Homeworks
 
 There will be three types of homeworks: project homeworks (see project tab), drawing concept maps as chapter summaries (see concept-map tab), and some chapters have additional homeworks (see homeworks tab). All homeworks should be submitted via Canvas. Concept maps should be submitted to the respective discussion boards so they are visible to other students in the class. You can view the concept maps uploaded by other students in the class only after you have submitted yours.
+
+## Concept-map homeworks
+
+The homework here is to make a concept map for each chapter after watching the lectures in the 'lectures' page. Whenever possible, your concept map should be divided into the 'topics of the chapter' (see the lectures page). In order to receive full points, each concept map should contain all of the key concepts/ideas discussed in the lectures. Two commonly used tools to make concept maps are [Lucidchart](https://www.lucidchart.com/) and [Slatebox](https://slatebox.com/). You are welcome to use any other resources. The following two videos explain how to make your first concept map.
+1. [How to make the perfect mind map and study effectively?](https://youtu.be/-Y1HJMuqAPY)
+1. [How to make a concept map](https://youtu.be/8XGQGhli0I0)
+
+Also, here are some example concept maps drawn by other UMSL students:  
+1. [Philosophical foundations](./concept-map-files/concept_map_philosophical_foundations_by_miguel_corona.pdf)  by Miguel Corona
+1. [Fair AI](./concept-map-files/concept_map_fair_ai_fiyanshu_arora.jpeg) by Fiyanshu Arora
+1. [P vs NP vs NPC](./concept-map-files/p_vs_np_vs_npc_concept_map_jacob.pdf) by Jacob Barger
 
 ## Quizzes
 

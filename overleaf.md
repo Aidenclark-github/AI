@@ -1,17 +1,8 @@
----
-layout: default
-permalink: /overleaf/
-title: overleaf
-nav: true
----
-
-## Using Overleaf
-<hr style="border-width:4px;">
+# Using Overleaf
 
 All reports should be prepared using <a href="https://www.overleaf.com/">Overleaf</a>. You are welcome to use any templates you want. [Here](https://www.overleaf.com/read/vgckqpfdyrwp) is an example. Please learn more about Overleaf [here](https://www.overleaf.com/learn/latex/LaTeX_video_tutorial_for_beginners_(video_1)). 
 
 ## Why Overleaf (and not Word or Google doc)?
-<hr style="border-width:4px;">
 
 Some of you may have wondered why this course requires you to prepare project reports in Overleaf and not Microsoft Word, Open Office Writer, or Google doc. Below are some bullets that capture my thoughts on why learning Overleaf/Latex is useful, particularly while you are in college. Please remember that fundamentally, Latex/Overleaf is **typesetting system** while Word or Writer are **word processors**.
 

@@ -1,12 +1,4 @@
----
-layout: default
-permalink: /schedule/
-title: schedule
-nav: true
----
-
-## Week-by-week course schedule (tentative)
-<hr style="border-width:4px;">
+# Week-by-week course schedule (tentative)
 
 **08/23/2021**
    - Meeting topics: Syllabus + NN crash course + Why start from Chapter 18?

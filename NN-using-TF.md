@@ -1,17 +1,9 @@
----
-layout: default
-permalink: /nn-tf/
-title: nn-tf
-nav: true
----
-
-## A hands-on introduction to feed-forward neural networks using Tensorflow and Keras
-<hr style="border-width:4px;">
+# A hands-on introduction to feed-forward neural networks using Tensorflow and Keras
 
 This is a mini crash course on using Tensorflow to develop feed-forward neural networks. It contains 10 scaffolded activities. If you already have some background in Tensorflow, Keras, and/or machine learning, you may also be interested to take the [machine learning crash course](https://developers.google.com/machine-learning/crash-course) that Google recently released. You may also find it helpful to often refer to this [recipe for supervised learning development](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing). 
 
 <p align="center">
-  <img src="../assets/nn-tf/nn.jpg" height=300>
+  <img src="./nn-tf-files/nn.jpg" height=300>
 </p>
 
 
@@ -36,10 +28,10 @@ In this activity, the task is to practice Numpy, Matplotlib, Plotly, Pandas for 
 ### Activity 3: Create your own IMDB movie dataset
 ---
 
-Please find at least 100 movies at [IMDB](https://www.imdb.com/). You can choose the movies that you have already watched or any other movies that you would like to watch. For each movie you will need to note certain features of the movie (see below for the list of features). You can create a table of all your movies and save in a Google Sheet or a Microsoft Excel file and export a `.csv` file. You table should look like the one below. [Here](../assets/nn-tf/my_imdb.csv) is an example `.csv` file. For neural network training experiments the first column (Movie name) is not needed but you may want to keep it in your original version so you can later fix errors if you find any. To convert this dataset into a classification problem, you can sort the rows by the last column (i.e., the rating column) and convert the first half of the numbers to a 0 (zero) and the bottom half to a 1 (one). This way, your output column (rating) will be a binary variable. Alternatively, you can pick a dataset from the [UCI ML database](https://archive.ics.uci.edu/ml/datasets.php).
+Please find at least 100 movies at [IMDB](https://www.imdb.com/). You can choose the movies that you have already watched or any other movies that you would like to watch. For each movie you will need to note certain features of the movie (see below for the list of features). You can create a table of all your movies and save in a Google Sheet or a Microsoft Excel file and export a `.csv` file. You table should look like the one below. [Here](./nn-tf-files/my_imdb.csv) is an example `.csv` file. For neural network training experiments the first column (Movie name) is not needed but you may want to keep it in your original version so you can later fix errors if you find any. To convert this dataset into a classification problem, you can sort the rows by the last column (i.e., the rating column) and convert the first half of the numbers to a 0 (zero) and the bottom half to a 1 (one). This way, your output column (rating) will be a binary variable. Alternatively, you can pick a dataset from the [UCI ML database](https://archive.ics.uci.edu/ml/datasets.php).
 
 <p align="center">
-  <img src="../assets/nn-tf/imdb.jpg" height=500>
+  <img src="./nn-tf-files/imdb.jpg" height=500>
 </p>
 
 **Features**  
@@ -189,7 +181,7 @@ Assumption: You already know (tentatively) what hyperparameters are good for you
   model.load_weights(your_model.hdf5)
   ```
 * Plot the learning curves and demonstrate that model checkpointing helps to obtain higher accuracy on the validation set
-  <img src="../assets/nn-tf/model-checkpoint.png" align="middle" width="600"/>
+  <img src="./nn-tf-files/model-checkpoint.png" align="middle" width="600"/>
 * At the end of your notebook, answer the following questions:  
   a. Almost always, training with early stopping finishes faster (because it stops early). Approximately, how long does it take for your training to finish with and without early stopping?  
   b. When model checkpointing, your checkpointed model will almost always be more accurate on the validation set. What is the MAE on the Validation set with and without model checkpointing?
@@ -203,13 +195,13 @@ Assumption: You already know (tentatively) what hyperparameters are good for you
 * Expected output 1: Plot the significance (importance) of each feature after training your model using one feature at a time:   
    a. X-axis represents the feature that was used as the input  
    b. Y-axis is accuracy or MAE of the validation set  
-   <img src="../assets/nn-tf/feature_importance.png" align="middle" width="450" border="2"/>
+   <img src="./nn-tf-files/feature_importance.png" align="middle" width="450" border="2"/>
 * Observing these MAE/accuracy values, we can rank the features by their importance (how informative each one is)
 * Next, iteratively remove one feature at a time (starting with the least significant feature) and repeat the training noting the accuracy/MAE on the validation set
 * Expected output 2: Plot to report your findings:   
    a. X-axis represents feature removal, for example, second entry is after removing feature1, and third entry is after removing feature1 and feature2  
    b. Y-axis is accuracy or MAE of the validation set  
-   <img src="../assets/nn-tf/feature_removal.png" align="middle" width="550" border="2"/>  
+   <img src="./nn-tf-files/feature_removal.png" align="middle" width="550" border="2"/>  
 
 ## Datasets refereed
 <hr style="border-width:4px;">

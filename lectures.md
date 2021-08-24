@@ -1,14 +1,6 @@
----
-layout: default
-permalink: /lectures/
-title: lectures
-nav: true
----
+# Lectures
 
-## Lectures
-<hr style="border-width:4px;">
-
-#### Chapter 18: Learning From Examples
+## Chapter 18: Learning From Examples
 1. [Forms of learning](https://www.youtube.com/watch?v=X7Ahz84K4cg)
 1. [Univariate linear regression](https://youtu.be/UcISiqqJvDg)
 1. Activity: [Univariate linear regression using Tensorflow Keras](https://youtu.be/yH7AUm2EHTM)
@@ -17,33 +9,33 @@ nav: true
 1. [Artificial neural networks](https://youtu.be/VzRjLQpY_dE)
 1. Activity: [Binary classification using tensorflow keras](https://youtu.be/PM6uvCLyeXM)
 
-#### Chapter 1: Introduction 
+## Chapter 1: Introduction 
 1. [What is AI?](https://youtu.be/sPOCaolMNr4)
 1. [Acting humanly and thinking humanly](https://youtu.be/ml9hS8UxF2o)
 1. [Thinking rationally and acting rationally](https://www.youtube.com/watch?v=bioz_1pHSvs)
 1. [Foundations of AI](https://youtu.be/uAliWinAyAs)
 1. [History of AI](https://youtu.be/bzkT3NgLIr8)
 
-#### Chapter 2: Intelligent Agents  
+## Chapter 2: Intelligent Agents  
 1. [Agent function vs agent program (first 20 minutes)](https://youtu.be/_b8o2DvMdis)
 1. [Rationality (last 15 minutes)](https://youtu.be/_b8o2DvMdis)
 
-#### Chapter 3: Solving Problems by Searching 
+## Chapter 3: Solving Problems by Searching 
 1. [Sample search problems](https://youtu.be/5adr4M_6d8Y)
 1. [Searching algorithm concepts](https://youtu.be/TRAgHQkuo3M)
 1. [Uninformed search algorithms](https://youtu.be/eyXynZTshP0)
 1. [Informed search algorithms](https://youtu.be/BgHZIjAuYNc)
 
-#### Chapter 5: Adversarial Search  
+## Chapter 5: Adversarial Search  
 1. [Introduction to adversarial search](https://youtu.be/6k8WilOGtXY)
 1. [Minimax algorithm](https://www.youtube.com/watch?v=uFhcHA57iLU)
 1. [Alpha-beta pruning algorithm](https://www.youtube.com/watch?v=n6mbgKICrVU)
 
-#### Chapter 7: Logical Agents
+## Chapter 7: Logical Agents
 1. [Knowledge base agents (logical) and a bit of entailment](https://youtu.be/zOCTxedhf_c)
 1. [Entailment](https://youtu.be/2M-K5OjVgYQ)
 
-#### Chapter 22: Natural Language Processing
+## Chapter 22: Natural Language Processing
 1. [N-gram character models](https://www.youtube.com/watch?v=BvZDV7MX6UI)
 1. [N-grams for language identification](https://www.youtube.com/watch?v=pusLb-kc0FI)
 1. [How to detect spams using N-grams?](https://www.youtube.com/watch?v=oCv2AKMJz9Q)
@@ -51,13 +43,13 @@ nav: true
 1. [BM25 scoring](https://www.youtube.com/watch?v=a3sg6MH8m4k)
 1. [PageRank algorithm](https://www.youtube.com/watch?v=CsvyPNdQAHg)
 
-#### Chapter 24: Perception     
+## Chapter 24: Perception     
 1. [Edge detection using convolution and smoothing](https://www.youtube.com/watch?v=lNidFPBAjNM)
 1. [Smoothing an image using convolution](https://www.youtube.com/watch?v=mjh5NIn1yHk)
 1. [Optical flow](https://www.youtube.com/watch?v=T1AePiEFvc0)
 1. [Image segmentation](https://www.youtube.com/watch?v=rFjTP3CaP1U)
 
-#### Chapter 25: Robotics 
+## Chapter 25: Robotics 
 1. [Types of sensors](https://youtu.be/6mFUiwMHOZ8)
 1. [How does GPS work?](https://youtu.be/9QaDQWA-9fg)
 1. [Range finders](https://youtu.be/wvs5qXfyMIA)
@@ -66,7 +58,7 @@ nav: true
 1. ['Atlas' by Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
 1. ['Spot' by Boston Dynamics](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
-#### Chapter 26: Philosophy, Ethics, and Safety of AI
+## Chapter 26: Philosophy, Ethics, and Safety of AI
    Will be posted soon.
 <!--
 1. [Can machines really think?](https://youtu.be/Lf7aMwrQWfE)
@@ -91,8 +83,7 @@ Will AI that discriminates based on race, gender, or economic status undermine t
 <br>
 
 ## Datasets
-<hr style="border-width:4px;">
 
-1. Iris flower dataset [data](../assets/data/iris.data) / [names](../assets/data/iris.names)
-1. [Pima diabetes dataset](../assets/data/pima-diabetes.csv)
-1. [Wine quality dataset](../assets/data/winequality-red.csv)
+1. Iris flower dataset [data](./datasets/iris.data) / [names](./datasets/iris.names)
+1. [Pima diabetes dataset](./datasets/pima-diabetes.csv)
+1. [Wine quality dataset](./datasets/winequality-red.csv)
