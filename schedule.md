@@ -8,6 +8,9 @@
       - Chapter homework: None
       - Project: None
 
+
+
+
 <!--
 1. **01/28**
    - Meeting topics: QnA + Project ideas + Activities for the project

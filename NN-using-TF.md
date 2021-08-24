@@ -3,35 +3,31 @@
 This is a mini crash course on using Tensorflow to develop feed-forward neural networks. It contains 10 scaffolded activities. If you already have some background in Tensorflow, Keras, and/or machine learning, you may also be interested to take the [machine learning crash course](https://developers.google.com/machine-learning/crash-course) that Google recently released. You may also find it helpful to often refer to this [recipe for supervised learning development](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing). 
 
 <p align="center">
-  <img src="./nn-tf-files/nn.jpg" height=300>
+  <img src="./supporting-files/nn-tf/nn.jpg" height=300>
 </p>
 
+## Activity 1: Practice Python3
 
-### Activity 1: Practice Python3
-----
-
-In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3) you are welcome to take the [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) course, the world's most popular online course.  
+In this activity, the task is to learn how to use [Google Colab](https://colab.research.google.com) and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3) you are welcome to take the [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) course, the world's most popular online course.  
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
-* Notebooks: [Python3](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/assets/notebooks/python.ipynb){:target="_blank"}
+* Notebooks: [Python3](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/notebooks/python.ipynb){:target="_blank"}
 
 * Alternatives to Google Colab: [Kaggle Notebooks](https://www.kaggle.com/code), [Local Installation](https://www.anaconda.com/products/individual) 
 
 
-### Activity 2: Practice Numpy, Matplotlib, and Pandas
-----
+## Activity 2: Practice Numpy, Matplotlib, and Pandas
 
 In this activity, the task is to practice Numpy, Matplotlib, Plotly, Pandas for basic data analysis, and techniques of data cleaning and data normalization.
 * Lectures: [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA), [Data normalization](https://youtu.be/Tu8Dl3zorgg), and [Data cleaning](https://youtu.be/0bj6KbEUJ_o)
-* Notebooks: [Numpy](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/assets/notebooks/numpy.ipynb), [Matplotlib & Plotly](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/assets/notebooks/matplotlib_plotly.ipynb), [Pandas](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/assets/notebooks/pandas.ipynb), and [Normalization techniques](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/assets/notebooks/normalization_techniques.ipynb)
+* Notebooks: [Numpy](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/notebooks/numpy.ipynb), [Matplotlib & Plotly](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/notebooks/matplotlib_plotly.ipynb), [Pandas](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/notebooks/pandas.ipynb), and [Normalization techniques](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/notebooks/normalization_techniques.ipynb)
 
 
-### Activity 3: Create your own IMDB movie dataset
----
+## Activity 3: Create your own IMDB movie dataset
 
-Please find at least 100 movies at [IMDB](https://www.imdb.com/). You can choose the movies that you have already watched or any other movies that you would like to watch. For each movie you will need to note certain features of the movie (see below for the list of features). You can create a table of all your movies and save in a Google Sheet or a Microsoft Excel file and export a `.csv` file. You table should look like the one below. [Here](./nn-tf-files/my_imdb.csv) is an example `.csv` file. For neural network training experiments the first column (Movie name) is not needed but you may want to keep it in your original version so you can later fix errors if you find any. To convert this dataset into a classification problem, you can sort the rows by the last column (i.e., the rating column) and convert the first half of the numbers to a 0 (zero) and the bottom half to a 1 (one). This way, your output column (rating) will be a binary variable. Alternatively, you can pick a dataset from the [UCI ML database](https://archive.ics.uci.edu/ml/datasets.php).
+Please find at least 100 movies at [IMDB](https://www.imdb.com/). You can choose the movies that you have already watched or any other movies that you would like to watch. For each movie you will need to note certain features of the movie (see below for the list of features). You can create a table of all your movies and save in a Google Sheet or a Microsoft Excel file and export a `.csv` file. You table should look like the one below. [Here](./supporting-files/nn-tf/my_imdb.csv) is an example `.csv` file. For neural network training experiments the first column (Movie name) is not needed but you may want to keep it in your original version so you can later fix errors if you find any. To convert this dataset into a classification problem, you can sort the rows by the last column (i.e., the rating column) and convert the first half of the numbers to a 0 (zero) and the bottom half to a 1 (one). This way, your output column (rating) will be a binary variable. Alternatively, you can pick a dataset from the [UCI ML database](https://archive.ics.uci.edu/ml/datasets.php).
 
 <p align="center">
-  <img src="./nn-tf-files/imdb.jpg" height=500>
+  <img src="./supporting-files/nn-tf/imdb.jpg" height=500>
 </p>
 
 **Features**  
@@ -49,25 +45,22 @@ Please find at least 100 movies at [IMDB](https://www.imdb.com/). You can choose
 | 300         | 117          | 2006        | 731880          | 2212            | 476                   | 7.6    |
 | I am legend | 101          | 2007        | 685532          | 1559            | 331                   | 7.2    |
 
---------------  
+ 
 
-### Activity 4: Logistic regression
------
+## Activity 4: Logistic regression
 
 In this activity, the goal is to practice logistic regression on a dataset with more than one input variables. When selecting a variable (column) for performing logistic regression, it is important to select a binary variable as the output variable. In other words, the values of this variable must be 0 or 1, nothing else. Before feeding the data to the model, it is often important to normalize/standardize your input dataset. You may need to normalize your data for classification to work. Here, the task is to perform logistic regression on your classification dataset.   
 * Lectures: [Logistic regression](https://youtu.be/KEYgPOcqmsw) and [Data normalization](https://youtu.be/Tu8Dl3zorgg)
-* Notebook: [Logistic regression](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/assets/notebooks/Logistic_regression.ipynb)
+* Notebook: [Logistic regression](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/notebooks/Logistic_regression.ipynb)
 
 ## Activity 5: Binary classification using neural networks
-----
 
 In this activity, the goal is to practice training a neural network model to perform binary classification. A neural network classifier should be more accurate than a basic logistic regression model. This is because a neural network model has more parameters (weights and biases) to learn the patterns in the data. A binary classifier can be evaluated using metrics such as accuracy, precision, and recall. Interpreting the accuracy of a binary classifier can be tricky. This is because the baseline accuracy, i.e., minimum accuracy, is at least 50%. A good classifier should result in an accuracy that is much higher than a baseline accuracy. The tasks in this activity are (i) Build a neural network classifier for your dataset, (ii) Evaluate your model using accuracy, precision, and recall, (iii) Compare the accuracy of your model with the baseline accuracy, and (iv) Compare the performance of the neural network with a logistic regression model.
 * Lectures: [Binary classification](https://youtu.be/PM6uvCLyeXM)
 * Articles: [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
-* Notebook: [Binary classification](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/assets/notebooks/Binary_classification.ipynb)
+* Notebook: [Binary classification](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/notebooks/Binary_classification.ipynb)
 
 ## Activity 6: Overfitting vs generalization
-----
 
 In this activity, the goal is to learn the concepts of overfitting, underfitting, generalization, and the purpose of splitting a dataset into training set and validation set. For a standard tabular classification dataset of your choice, where the output variable is a binary variable, the first step is to shuffle the rows (see example code below). The next step is to split the rows into training and validation set. For small datasets, selecting a random 30% of the rows as the validation set and leaving the rest as the training set works well. For larger datasets, smaller percents can be enough. This splitting yeilds four numpy arrays - XTRAIN, YTRAIN, XVALID, and YVALID (see example code below). For normalizing the data and to obtain the 'mean' and 'standard deviation' it is important to only use the XTRAIN array, not XVALID. XVALID should be normalized using the mean and standard deviation obtained from XTRAIN. Then the main question one should ask is - if a model is trained using the training data (XTRAIN and YTRAIN) how does it perform on the validation set (XVALID and YVALID)? In this activity there are two tasks: (i) Build a neural network model to overfit the training set (to get almost 100% accuracy or as high as it is possible) and then evaluate on the validation set, and (ii) Evaluate the accuracy of the model for the training set and the validation set and discuss your findings. To obtain high accuracy on the training set, one can build a larger neural network (with more layers and more neurons per layer) and train as long as possible.
 * Lectures: [Overfitting, generalization, and data splitting](https://youtu.be/1EfGsw-Szyg) 
@@ -111,8 +104,7 @@ In the notebook where you practice, also answer the following:
 1. What is the difference between generalization, overfitting, and underfitting?
 1. Why should you not normalize XVALID separately, i.e. why should we use the parameters from XTRAIN to normalize XVALID?  
 
-### Activity 7: Learning curves
------
+## Activity 7: Learning curves
 
 This activity assumes that you have successfully completed all previous activities. It also requires some focus. Learning curves are a key to debug and diagnose a model's performance. The goal in this activity is to plot learning curves and to interpret various learning curves. For a regression dataset of your choice, the first step is to shuffle the dataset. The next step is to split the dataset into the four arrays: XTRAIN, YTRAIN, XVALID, and YVALID. The next step is to train a neural network model using `model.fit()`. However, this time, XVALID and YVALID will also be passed as arguments to the `model.fit()` method. This is so when we call the method, it can evaluate the model on the validation set at the end of each epoch (see code block below). It is extremely important to understand that the `model.fit()` method does NOT use the validation dataset to perform the learning, it is only to evaluate the model after each epoch. When calling the `model.fit()` method we can also save its output in a variable, usually named `history`. This variable can be used to plot learning curves (see code block below). The task in this activity is to plot many learning curves in various scenarios. In particular, it is of interest to observe and analyze how the learning plots look like various settings. The following article discusses learning curves in more detail.
 * Lectures: [Some insights on learning curves](https://youtu.be/seRETv52U1Q)
@@ -140,8 +132,7 @@ Produce learning curves that represent the following cases:
 1. a model that shows that further training is required
 1. an underfit model that does not have sufficient capacity (also may imply that the data itself is difficult)
 
-### Activity 8: Fine-tuning hyper-parameters of your model
-----
+## Activity 8: Fine-tuning hyper-parameters of your model
 
 In this activity, the task is to learn how to design and train a model that does well on the unseen (validation) dataset. The weights and biases of a neural network model are its parameters. The parameters such as the number of layers of neurons, numbers of neurons in each layer, number of epochs, batch size, activation functions, choice of optimizer, choice of loss function, etc. are the hyperparameters of a model. When training a model for a new dataset an extremely important question is - what combinations of hyperameters yield the maximum accuracy on the validation set? Remember, when playing with activation functions, the activation of the last layer should not change - it should always be sigmoid for binary classification and ReLU or linear for regression. The task is in this activity is to try as many hyperparameters as possible to obtain the highest possible accuracy on the validation set. For a **classification dataset of your choice**, the first step is to create a notebook where you can train the model using the training set and evaluate on the validation set. Then, the objective is to find the optimal (best) hyper-parameters that maximize the accuracy (or minimize MAE) on the validation set. 
 
@@ -155,8 +146,7 @@ Below are the hyperparameters to optimize:
 1. Various optimizers (rmsprop, sgd, nadam, adam, gd, etc.)
 1. Various activation functions for the intermediate layers (relu, sigmoid, elu, etc.)
 
-### Activity 9: Early stopping
-----
+## Activity 9: Early stopping
 
 Assumption: You already know (tentatively) what hyperparameters are good for your dataset
 * Find a regression dataset of your choice and split into training and validation set
@@ -181,13 +171,12 @@ Assumption: You already know (tentatively) what hyperparameters are good for you
   model.load_weights(your_model.hdf5)
   ```
 * Plot the learning curves and demonstrate that model checkpointing helps to obtain higher accuracy on the validation set
-  <img src="./nn-tf-files/model-checkpoint.png" align="middle" width="600"/>
+  <img src="./supporting-files/nn-tf/model-checkpoint.png" align="middle" width="600"/>
 * At the end of your notebook, answer the following questions:  
   a. Almost always, training with early stopping finishes faster (because it stops early). Approximately, how long does it take for your training to finish with and without early stopping?  
   b. When model checkpointing, your checkpointed model will almost always be more accurate on the validation set. What is the MAE on the Validation set with and without model checkpointing?
 
-### Activity 10: Iterative feature removal & selection
-----
+## Activity 10: Iterative feature removal & selection
 
 * As of now, it is assumed that given a dataset (of your choice) you can build a model that can do reasonably well on the validation set, i.e. you have a good idea of the network architecture needed, the number of epochs needed, model Checkpointing, the approximate MAE or accuracy that one might expect, etc.
 * Here we will train a model using the training set and evaluate on the validation set; you are free to choose your own dataset (even your project dataset is fine)
@@ -195,28 +184,30 @@ Assumption: You already know (tentatively) what hyperparameters are good for you
 * Expected output 1: Plot the significance (importance) of each feature after training your model using one feature at a time:   
    a. X-axis represents the feature that was used as the input  
    b. Y-axis is accuracy or MAE of the validation set  
-   <img src="./nn-tf-files/feature_importance.png" align="middle" width="450" border="2"/>
+   <img src="./supporting-files/nn-tf/feature_importance.png" align="middle" width="450" border="2"/>
 * Observing these MAE/accuracy values, we can rank the features by their importance (how informative each one is)
 * Next, iteratively remove one feature at a time (starting with the least significant feature) and repeat the training noting the accuracy/MAE on the validation set
 * Expected output 2: Plot to report your findings:   
    a. X-axis represents feature removal, for example, second entry is after removing feature1, and third entry is after removing feature1 and feature2  
    b. Y-axis is accuracy or MAE of the validation set  
-   <img src="./nn-tf-files/feature_removal.png" align="middle" width="550" border="2"/>  
+   <img src="./supporting-files/nn-tf/feature_removal.png" align="middle" width="550" border="2"/>  
 
-## Datasets refereed
+# Datasets refereed
 <hr style="border-width:4px;">
-1. [Pima diabetes dataset](../assets/data/pima-diabetes.csv)
-1. [Wine quality dataset](../assets/data/winequality-red.csv)
+1. [Pima diabetes dataset](../data/pima-diabetes.csv)
+1. [Wine quality dataset](../data/winequality-red.csv)
 
-## Optional Activities
+<hr>
+
+# Optional Activities
 <hr style="border-width:4px;">
 
-### Univariate linear regression
+## Univariate linear regression
 In this activity, the goal is to practice univariate linear regression. When selecting variables (columns) for performing linear regression, it is important to choose continuous variables and not binary variables. Before feeding the data to the regression model, it is often important to normalize/standardize your input dataset. You may need to normalize your data for regression to work. Here, the task is to perform univariate linear regression on a dataset of your choice (other than the 'pima-diabetes' dataset).  
 * Lectures: [Univariate Linear Regression](https://youtu.be/yH7AUm2EHTM)
-* Notebook: [Univariate Linear Regression](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/assets/notebooks/Univariate_linear_regression.ipynb)
+* Notebook: [Univariate Linear Regression](https://nbviewer.jupyter.org/url/badriadhikari.github.io/Artificial-Intelligence/notebooks/Univariate_linear_regression.ipynb)
 
-### Learning with missing values & noisy data
+## Learning with missing values & noisy data
 * In this activity, we will investigate the impact of "amount of data" and missing/noisy data
 * For a dataset of your choice, randomly set random rows/columns (around 10% of your total rows) to non-standard values such as -9999 or 9999 and repeat your training/evaluation.
   * Expected output: Your discussion of how noisy data impacts the accuracy/MAE on the validation set
@@ -236,11 +227,11 @@ In this activity, the goal is to practice univariate linear regression. When sel
 * For a dataset of your choice, iteratively decrease the total number of data (rows) and and evaluate the accuracy/MAE on the validation set - please do not change the validation set (keep the same number of rows in each run); only decrease the number of rows in the training set.
   * Expected output: A plot showing how the # of rows (x-axis) impacts the accuracy/MAE on validation data (y-axis) - with at least 8/10 points on the plot (for example: 1%, 2%, 5%, 10%, 20%, 40%, 60%, and 80%)
 
-### Linear regression with at least two input variables (Chapter 18)
+## Linear regression with at least two input variables (Chapter 18)
 In this activity, the goal is to practice linear regression on a dataset with more than one input variables. When selecting variables (columns) for performing linear regression, it is important to choose continuous variables and not binary variables. Before feeding the data to the regression model, it is often important to normalize/standardize your input dataset. You may need to normalize your data for regression to work. Here, the task is to perform linear regression on a dataset of your choice (other than the 'pima-diabetes' dataset).  
 * Lectures: [Linear regression with two input variables](https://youtu.be/IOaif62O06k) and [Data normalization](https://youtu.be/Tu8Dl3zorgg)
 
-### Regression using NN and evaluation
+## Regression using NN and evaluation
 In this activity, the goal is to practice training a neural network model to perform regression, i.e. predict continuous values. A neural network regression model should be more accurate than a basic linear regression model. This is because a neural network model has more parameters (weights and biases) to learn the patterns in the data. A regression model can be evaluated using metrics such as mean absolute error (MAE). This activity has five tasks: (i) Build a neural network regression model for a dataset of your choice, (ii) Evaluate your model using MAE, (iii) Compare the MAE of your model with a linear regression model, (iv) Assess if your model is biased towards predicting either larger values more correctly or smaller values more correctly, and (v) Experiment with various loss functions such as mae, mse, mean_squared_logarithmic_error, and 'logcosh', to find out which delivers the lowest MAE.
 * Lecture: [Linear regression with two input variables](https://youtu.be/IOaif62O06k) and [Regression using neural networks](https://youtu.be/RG3QB7HGcVM)
 

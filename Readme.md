@@ -1,18 +1,17 @@
 
-<img src="./assets/img/umsl.png" align="middle" width="350"/>
+<img src="./supporting-files/syllabus//umsl.png" align="middle" width="300"/>
 
 # Syllabus of Artificial Intelligence (CS 4300/5300)
 
 **Table of Contents** 
-  1. [Lectures](./Lectures.md)
-  1. [Homeworks](./Homeworks.md)
-  1. [NN-using-TF](NN-using-TF.md)
-  1. [Overleaf](Overleaf.md)
-  1. [Proctoring](Proctoring.md)
-  1. [Project](Project.md)
-  1. [Schedule](Schedule.md)
+- [Lectures](Lectures.md)
+- [List of homeworks](Homeworks.md)
+- [NN-using-TF](NN-using-TF.md)
+- [Project](Project.md)
+- [Schedule](Schedule.md)
 
-Sections in this page:
+Sections in the main syllabus (this) page:
+
   - [Instructor & contact information](#instructor---contact-information)
   - [Course description in UMSL catalog](#course-description-in-umsl-catalog)
   - [Prerequisites](#prerequisites)
@@ -36,7 +35,7 @@ Sections in this page:
 
 - Instructor (Facilitator): [Badri Adhikari](http://umsl.edu/~adhikarib/){:target="_blank"} 
 - Email: adhikarib@umsl.edu
-- Class meets: Mo/We 6:55 to 8:10 PM; Mo at SSB 410 and We online synchronously via Zoom (see Canvas for the link)
+- Class meets: 6:55 to 8:10 PM - Mondays at SSB 410 and Wednesdays online synchronously via Zoom (see Canvas for the link)
 - Office hours: Mondays 4:55 PM to 6:55 PM (please email to inform)
 
 **Teaching philosophy:** Computer science and technology is mostly a practical discipline. To learn the fundamentals, an effective strategy is to follow an iterative process of <em>reading, analyzing, and coding</em>. However, many students either like to <em>analyze</em> or <em>code</em> but not both. While some of us enjoy developing the skills for critically assessing the concepts and algorithms, many others enjoy programming and love building things. I think that an effective computer science course should be a balance of (a) theoretical knowledge to understand how computer technology works, and (b) implementation skills to test and execute the theories and algorithms. I design course contents and assignments so that students have an opportunity to improve both: analytical and programming skills. Students with a rich programming experience may find this balance slightly easier but will have a platform to explore further. For many others who do not consider themselves expert programmers, taking such a course will be a rewarding experience.
@@ -88,7 +87,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 Any form of academic dishonesty in this class will result in an F for the semester and the case will be referred to the provost's office for possible further disciplinary action, regardless of how trivial it is. Please don't use another student's assignment (or a solution in the internet) to complete your own assignment. Discussing the material is 'OK', but please do your work on your own. You should complete the homework alone, not together, and not in a group. If you have any questions about any of the lessons or the assignments, please contact me, and I will point you in the right direction. Please read [UMSL's policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html) and keep yourself out of plagiarism. Also, please remember that our `turnitin` tool also automatically checks for plagiarism.
 
 <p align="center" width="100%">
-    <img src="./assets/img/academic_dishonesty.gif" align="middle" width="40%"/>
+    <img src="./supporting-files/syllabus//academic_dishonesty.gif" align="middle" width="40%"/>
 </p>
 
 ## Programming language
@@ -113,9 +112,9 @@ The homework here is to make a concept map for each chapter after watching the l
 1. [How to make a concept map](https://youtu.be/8XGQGhli0I0)
 
 Also, here are some example concept maps drawn by other UMSL students:  
-1. [Philosophical foundations](./concept-map-files/concept_map_philosophical_foundations_by_miguel_corona.pdf)  by Miguel Corona
-1. [Fair AI](./concept-map-files/concept_map_fair_ai_fiyanshu_arora.jpeg) by Fiyanshu Arora
-1. [P vs NP vs NPC](./concept-map-files/p_vs_np_vs_npc_concept_map_jacob.pdf) by Jacob Barger
+1. [Philosophical foundations](./supporting-files/concept-maps//concept_map_philosophical_foundations_by_miguel_corona.pdf)  by Miguel Corona
+1. [Fair AI](./supporting-files/concept-maps//concept_map_fair_ai_fiyanshu_arora.jpeg) by Fiyanshu Arora
+1. [P vs NP vs NPC](./supporting-files/concept-maps//p_vs_np_vs_npc_concept_map_jacob.pdf) by Jacob Barger
 
 ## Quizzes
 
@@ -156,18 +155,39 @@ Note: You should submit the course evaluation survey at the end of the semester 
 
 <br>
 
+## Instructions for taking a quiz using Proctrio
+
+Will be posted soon! Smartproctoring: https://keeplearning.umsystem.edu/students/other-tools/smarterproctoring
+
+
+## Using Overleaf
+
+All reports should be prepared using <a href="https://www.overleaf.com/">Overleaf</a>. You are welcome to use any templates you want. [Here](https://www.overleaf.com/read/vgckqpfdyrwp) is an example. Please learn more about Overleaf [here](https://www.overleaf.com/learn/latex/LaTeX_video_tutorial_for_beginners_(video_1)). 
+
+Some of you may have wondered why this course requires you to prepare project reports in Overleaf and not Microsoft Word, Open Office Writer, or Google doc. Below are some bullets that capture my thoughts on why learning Overleaf/Latex is useful, particularly while you are in college. Please remember that fundamentally, Latex/Overleaf is **typesetting system** while Word or Writer are **word processors**.
+
+- From a CS conference and journal publisher's point of view giving authors a LaTeX template ensures that all the papers have a uniform formatting, and that you won't spend much time fixing formatting issues. This saves publication costs.
+- Papers written in Latex have the same output whether the authors prepared them on a Linux, a Mac or Windows machine. In OpenOffice Writer or Word, this is not always the case.
+- As your document size increases, particularly if they contain many images, softwares such as Word and Writer start to crash. Latex/Overleaf may take slightly longer to process, but they usually don't crash. It's extremely stable, no matter how complex the documents are. At least, you don't have to worry about crashing when typing/preparing your content.
+- Similar to OpenOffice Latex is free. Please note that Overleaf may not be free in future but the Latex code can be compiled in free Latex compilers outside of Overleaf.
+- Google doc is a great tool for collaborative efforts but it lacks many features that Latex/Word offer. For example, citing/organizing references. Latex has excellent referencing system.
+- Some top conferences on Artificial Intelligence and Machine Learning (such as [ICML](https://icml.cc/)) only accept submissions in Latex format.
+- Many CS/IT graduates who have prepared reports using Overleaf/Latex often brag about *high typographical quality* of their reports. This is particularly true for documents that are heavy on mathematics. Those who don't know about Latex, always keep wondering how Word/Writer can be used to prepare such reports.
+- TeX (The core of Overleaf/Latex) has been around for over thirty years, and the underlying language hasn't changed very much in that time. 
+- Your document is relatively safe because the file format is open and there's no virus threat.
+- Latex provides a consistency of the layout, i.e., it is really difficult to mess up the typography. This lets you concentrate on the contents and does not distract you by being concerned about the looks of the document.
+
+I am not an Overleaf/Latex maniac and I don't use it for everything. However, I strongly believe that CS/IT students should learn it once while at university. Even just to know that such an alternative to Word/Writer exists and that they are widely used.
+
 <hr>
 
 ## Resources
 
-Your success in this class is important to me. If you need official accommodations, you have a right to have these met. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. I encourage you to visit the following links to determine how you could improve your learning as well. 
-
-* [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221)
-* [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223)
+Your success in this class is important to me. If you need official accommodations, you have a right to have these met. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. 
 
 <hr>
 
-## What students say
+## What other students (who took this course) say
 
 > "Sorry to bother you after the course is done. Thank you for your teaching and hard work for this semester. I enjoy your teaching in this course, and I learned a lot through this course. When starting this course, I have no experience with python and TensorFlow, but I can build my neural network right now. This gives me a ton of experience in AI and data science which I believe is very useful for my career. Also, through this course, I can feel the charm of AI. I get attracted to it, and I want to learn more about it when I am going to graduate school." - A student in fall 2021 class (online).
 

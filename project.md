@@ -35,9 +35,11 @@ Please submit a PDF of your final report. It should contain the important findin
 ## Sample final reports
 For your reference, I have listed below some final reports by students who took this course in earlier semesters. Please understand that these examples are only meant to be references and your focus should be on meeting the requirements mentioned above instead of preparing a report similar to these example reports.
 
-* EPL game result prediction by Bikash Shrestha - [report](../assets/project/bikash-epl-report.pdf)
+* EPL game result prediction by Bikash Shrestha - [report](./supporting-files/projects/bikash-epl-report.pdf)
 * Prediction of housing prices by Syeda Afrah Shamail - [report](https://github.com/afrah1994/Prediction-of-Housing-Prices/blob/master/Final%20report.pdf)
 * Factors in tennis by John Soderstrom - [report](https://github.com/SoderstromJohnR/CS4300Final/blob/master/Final%20Report.pdf)
 * Predicting pulsar stars by Duc Ngo - [report](https://github.com/zegster/artificial-intelligence/blob/master/final_assembly/Final_Assembly.pdf)
 * Predicting MLB runs scored by Miguel Corona - [report](https://github.com/mykon23/AI-2020/blob/project_final/Project/Final/Predicting_MLB_Runs_Scored_NN.pdf)
+
+
 
