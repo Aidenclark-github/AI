@@ -30,6 +30,7 @@
 1. [Introduction to adversarial search](https://youtu.be/6k8WilOGtXY)
 1. [Minimax algorithm](https://www.youtube.com/watch?v=uFhcHA57iLU)
 1. [Alpha-beta pruning algorithm](https://www.youtube.com/watch?v=n6mbgKICrVU)
+1. [Online solver](https://pascscha.ch/info2/abTreePractice/)
 
 ## Chapter 7: Logical Agents
 1. [Knowledge base agents (logical) and a bit of entailment](https://youtu.be/zOCTxedhf_c)
