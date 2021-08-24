@@ -3,11 +3,22 @@
 
 # Syllabus of Artificial Intelligence (CS 4300/5300)
 
-- [Foo](#foo)
-  - [Bar](#bar)
-  - [Foobar](#foobar)
-- [Barfoo](#barfoo)
-  - [Barbar](#barbar)
+  * [Instructor & contact information](#instructor---contact-information)
+  * [Course description in UMSL catalog](#course-description-in-umsl-catalog)
+  * [Prerequisites](#prerequisites)
+  * [Learning outcomes](#learning-outcomes)
+  * [Textbook](#textbook)
+  * [Course topics](#course-topics)
+  * [Academic honesty](#academic-honesty)
+  * [Programming language](#programming-language)
+  * [Due dates and late policy](#due-dates-and-late-policy)
+  * [Homeworks](#homeworks)
+  * [Quizzes](#quizzes)
+  * [In-person tests](#in-person-tests)
+  * [Grade composition](#grade-composition)
+  * [Grading scheme](#grading-scheme)
+  * [Resources](#resources)
+  * [What students say](#what-students-say)
 
 ## Instructor & contact information
 
