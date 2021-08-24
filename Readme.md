@@ -3,30 +3,34 @@
 
 # Syllabus of Artificial Intelligence (CS 4300/5300)
 
-  * [Instructor & contact information](#instructor---contact-information)
-  * [Lectures](./Lectures.md)
-  * [Homeworks](./Homeworks.md)
-  * [NN-using-TF](NN-using-TF.md)
-  * [Overleaf](Overleaf.md)
-  * [Proctoring](Proctoring.md)
-  * [Project](Project.md)
-  * [Schedule](Schedule.md)
+**Table of Contents** 
+  1. [Lectures](./Lectures.md)
+  1. [Homeworks](./Homeworks.md)
+  1. [NN-using-TF](NN-using-TF.md)
+  1. [Overleaf](Overleaf.md)
+  1. [Proctoring](Proctoring.md)
+  1. [Project](Project.md)
+  1. [Schedule](Schedule.md)
 
-  * [Course description in UMSL catalog](#course-description-in-umsl-catalog)
-  * [Prerequisites](#prerequisites)
-  * [Learning outcomes](#learning-outcomes)
-  * [Textbook](#textbook)
-  * [Course topics](#course-topics)
-  * [Academic honesty](#academic-honesty)
-  * [Programming language](#programming-language)
-  * [Due dates and late policy](#due-dates-and-late-policy)
-  * [Homeworks](#homeworks)
-  * [Quizzes](#quizzes)
-  * [In-person tests](#in-person-tests)
-  * [Grade composition](#grade-composition)
-  * [Grading scheme](#grading-scheme)
-  * [Resources](#resources)
-  * [What students say](#what-students-say)
+Sections in this page:
+  - [Instructor & contact information](#instructor---contact-information)
+  - [Course description in UMSL catalog](#course-description-in-umsl-catalog)
+  - [Prerequisites](#prerequisites)
+  - [Learning outcomes](#learning-outcomes)
+  - [Textbook](#textbook)
+  - [Course topics](#course-topics)
+  - [Academic honesty](#academic-honesty)
+  - [Programming language](#programming-language)
+  - [Due dates and late policy](#due-dates-and-late-policy)
+  - [Homeworks](#homeworks)
+  - [Quizzes](#quizzes)
+  - [In-person tests](#in-person-tests)
+  - [Grade composition](#grade-composition)
+  - [Grading scheme](#grading-scheme)
+  - [Resources](#resources)
+  - [What students say](#what-students-say)
+
+<hr>
 
 ## Instructor & contact information
 
