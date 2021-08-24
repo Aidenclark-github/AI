@@ -5,7 +5,7 @@
 
 **Table of Contents** 
 - [Lectures](Lectures.md)
-- [List of homeworks](Homeworks.md)
+- [Chapter homeworks](Chapter-homeworks.md)
 - [NN-using-TF](NN-using-TF.md)
 - [Project](Project.md)
 - [Schedule](Schedule.md)
@@ -105,7 +105,7 @@ Python3 is language for the course; you are expected to use Python3 for all of y
 
 ## Homeworks
 
-There will be three types of homeworks: project homeworks (see project tab), drawing concept maps as chapter summaries (see concept-map tab), and some chapters have additional homeworks (see homeworks tab). All homeworks should be submitted via Canvas. Concept maps should be submitted to the respective discussion boards so they are visible to other students in the class. You can view the concept maps uploaded by other students in the class only after you have submitted yours.
+There will be three types of homeworks: project homeworks (see project tab), drawing concept maps as chapter summaries (see concept-map tab), and some chapters have additional homeworks (see chapter-homeworks tab). All homeworks should be submitted via Canvas. Concept maps should be submitted to the respective discussion boards so they are visible to other students in the class. You can view the concept maps uploaded by other students in the class only after you have submitted yours.
 
 ## Concept-map homeworks
 
