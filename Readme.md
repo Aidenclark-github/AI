@@ -33,7 +33,7 @@ Sections in the main syllabus (this) page:
 
 ## Instructor & contact information
 
-- Instructor (Facilitator): [Badri Adhikari](http://umsl.edu/~adhikarib/){:target="_blank"} 
+- Instructor (Facilitator): [Badri Adhikari](http://umsl.edu/~adhikarib/) 
 - Email: adhikarib@umsl.edu
 - Class meets: 6:55 to 8:10 PM - Mondays at SSB 410 and Wednesdays online synchronously via Zoom (see Canvas for the link)
 - Office hours: Mondays 4:55 PM to 6:55 PM (please email to inform)
