@@ -40,7 +40,7 @@ Sections in the main syllabus (this) page:
 - Class meets: 6:55 to 8:10 PM - Mondays at SSB 410 and Wednesdays online synchronously via Zoom (see Canvas for the link)
 - Office hours: Mondays 4:55 PM to 6:55 PM (please email to inform)
 
-**Teaching philosophy:** Computer science and technology is mostly a practical discipline. To learn the fundamentals, an effective strategy is to follow an iterative process of <em>reading, analyzing, and coding</em>. However, many students either like to <em>analyze</em> or <em>code</em> but not both. While some of us enjoy developing the skills for critically assessing the concepts and algorithms, many others enjoy programming and love building things. I think that an effective computer science course should be a balance of (a) theoretical knowledge to understand how computer technology works, and (b) implementation skills to test and execute the theories and algorithms. I design course contents and assignments so that students have an opportunity to improve both: analytical and programming skills. Students with a rich programming experience may find this balance slightly easier but will have a platform to explore further. For many others who do not consider themselves expert programmers, taking such a course will be a rewarding experience.
+**Teaching philosophy:** Computer science and technology is mostly a practical discipline. To learn the fundamentals, an effective strategy is to follow an iterative process of <em>reading, analyzing, and coding</em>. However, many students either like to <em>analyze</em> or <em>code</em> but not both. While some of us enjoy developing the skills for critically assessing the concepts and algorithms, many others enjoy programming and love building things. I think that an effective computer science course should be a balance of (a) theoretical knowledge to understand how computer technology works, and (b) implementation skills to test and execute the theories and algorithms. I design course contents and assignments so that students have an opportunity to improve both: analytical and programming skills. Students with a rich programming experience may find this balance slightly easier but will have a platform to explore further. For many others who do not consider themselves expert programmers, taking such a course can become a rewarding experience.
 
 ## Course description in UMSL catalog
 
@@ -52,14 +52,14 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS.
 
 ## Learning outcomes  
 
-This course consists of (a) the book's chapter topics in the form of recorded lectures (see lectures tab) along with corresponding homeworks, (b) a collection of activities as a crash course on 'machine learning using Keras/Tensorflow' (see nn-tf tab), and (c) a semester-long project (see project tab) on feed-forward neural networks. If you are new to artificial intelligence, Python, and machine learning, the activities and the project will require some exploration and study. But they provide you opportunities to learn the fundamentals of neural networks and the state-of-the art libraries to build prediction systems. Below are the learning outcomes:
+This course consists of (a) the book's chapter topics in the form of recorded lectures (see lectures tab) along with corresponding homeworks, (b) a collection of activities as a crash course on 'machine learning using Keras/Tensorflow' (see nn-tf tab), and (c) a semester-long project on feed-forward neural networks (see project tab). If you are new to artificial intelligence, Python, and machine learning, the activities and the project will require some exploration and study. But they provide you opportunities to learn the fundamentals of neural networks and the state-of-the art libraries to build prediction systems. Below are the learning outcomes:
 * Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
 * Learn artificial intelligence principles and approaches
 * Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
 * Evaluate various searching algorithms
 * Understand problems and ideas in the field of natural language processing, perception, and robotics
 * Learn the philosophical foundations of AI and the future of AI
-* Implement various AI algorithms such as depth-first search, and breadth-first search.
+* Implement various AI algorithms such as depth-first search and breadth-first search.
 
 ## Textbook  
 
@@ -94,22 +94,22 @@ Any form of academic dishonesty in this class will result in an F for the semest
 
 ## Programming language
 
-Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project. You are welcome to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
+Python3 is the programming language for this course; you are expected to use Python3 for all of your classroom activities, homeworks, and the project. You are welcome to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
 
 ## Due dates and late policy  
 
-* Homeworks and project phases have their respective due dates (see Schedule).
+* Quizzes, homeworks and project phases have their respective due dates (see Schedule and see Canvas).
 * You can request a maximum two-day extension on any homeworks or project submissions - for up to two submissions. 
 * If you email me a few hours before a deadline and I don't reply you immediately, and if you have not used your two-day extensions, you can assume that the extension is granted automatically.
 * Once you use your extension days, late submissions will get no points.
 
 ## Homeworks
 
-There will be three types of homeworks: project homeworks (see project tab), drawing concept maps as chapter summaries (see concept-map tab), and some chapters have additional homeworks (see chapter-homeworks tab). All homeworks should be submitted via Canvas. Concept maps should be submitted to the respective discussion boards so they are visible to other students in the class. You can view the concept maps uploaded by other students in the class only after you have submitted yours.
+There will be three types of homeworks: project homeworks (see project tab), drawing concept maps as chapter summaries (see concept-map tab), and some chapters have additional homeworks (see chapter-homeworks tab). All homeworks should be submitted via Canvas. 
 
 ## Concept-map homeworks
 
-The homework here is to make a concept map for each chapter after watching the lectures in the 'lectures' page. Whenever possible, your concept map should be divided into the 'topics of the chapter' (see the lectures page). In order to receive full points, each concept map should contain all of the key concepts/ideas discussed in the lectures. Two commonly used tools to make concept maps are [Lucidchart](https://www.lucidchart.com/) and [Slatebox](https://slatebox.com/). You are welcome to use any other resources. The following two videos explain how to make your first concept map.
+The homework here is to make a concept map for each chapter after watching the lectures in the 'lectures' page. Whenever possible, your concept map should be divided into the 'topics of the chapter' (see the lectures page). In order to receive full points, each concept map should contain all of the key concepts/ideas discussed in the lectures. Two commonly used tools to make concept maps are [Lucidchart](https://www.lucidchart.com/) and [Slatebox](https://slatebox.com/). You are welcome to use any other resources. Concept maps should be submitted to the respective discussion boards so they are visible to other students in the class. You can view the concept maps uploaded by other students in the class only after you have submitted yours. The following two videos explain how to make your first concept map.
 1. [How to make the perfect mind map and study effectively?](https://youtu.be/-Y1HJMuqAPY)
 1. [How to make a concept map](https://youtu.be/8XGQGhli0I0)
 
@@ -120,7 +120,7 @@ Also, here are some example concept maps drawn by other UMSL students:
 
 ## Quizzes
 
-Along with concept map homeworks, after watching the lectures in a chapter, you will need to take a five minute quiz. The questions on the quiz will be multiple-choice or true/false type. Please take this quiz right after watching the chapter lectures. Also, before taking the first quiz, please read the instructions on proctoring (see proctoring tab).
+In addition to drawing a concept map, after watching the lectures in a chapter, you will also need to take a five minute quiz. The questions on the quiz will be multiple-choice or true/false type. Please take this quiz soon after watching the chapter lectures. Also, before taking the first quiz, please read the instructions on proctoring (see proctoring tab).
 
 ## In-person tests
 
@@ -166,7 +166,7 @@ Will be posted soon! Smartproctoring: https://keeplearning.umsystem.edu/students
 
 All reports should be prepared using <a href="https://www.overleaf.com/">Overleaf</a>. You are welcome to use any templates you want. [Here](https://www.overleaf.com/read/vgckqpfdyrwp) is an example. Please learn more about Overleaf [here](https://www.overleaf.com/learn/latex/LaTeX_video_tutorial_for_beginners_(video_1)). 
 
-Some of you may have wondered why this course requires you to prepare project reports in Overleaf and not Microsoft Word, Open Office Writer, or Google doc. Below are some bullets that capture my thoughts on why learning Overleaf/Latex is useful, particularly while you are in college. Please remember that fundamentally, Latex/Overleaf is **typesetting system** while Word or Writer are **word processors**.
+Some of you may have wondered why this course requires you to prepare project reports in Overleaf and why Microsoft Word, Open Office Writer, or Google doc are not allowed. Below are some bullets that capture my thoughts on why learning Overleaf/Latex is useful, particularly while you are in college. Please remember that fundamentally, Latex/Overleaf is **typesetting system** while Word or Writer are **word processors**.
 
 - From a CS conference and journal publisher's point of view giving authors a LaTeX template ensures that all the papers have a uniform formatting, and that you won't spend much time fixing formatting issues. This saves publication costs.
 - Papers written in Latex have the same output whether the authors prepared them on a Linux, a Mac or Windows machine. In OpenOffice Writer or Word, this is not always the case.
@@ -176,7 +176,7 @@ Some of you may have wondered why this course requires you to prepare project re
 - Some top conferences on Artificial Intelligence and Machine Learning (such as [ICML](https://icml.cc/)) only accept submissions in Latex format.
 - Many CS/IT graduates who have prepared reports using Overleaf/Latex often brag about *high typographical quality* of their reports. This is particularly true for documents that are heavy on mathematics. Those who don't know about Latex, always keep wondering how Word/Writer can be used to prepare such reports.
 - TeX (The core of Overleaf/Latex) has been around for over thirty years, and the underlying language hasn't changed very much in that time. 
-- Your document is relatively safe because the file format is open and there's no virus threat.
+- Your document is relatively safe because the file format is open and there's lesser virus threat.
 - Latex provides a consistency of the layout, i.e., it is really difficult to mess up the typography. This lets you concentrate on the contents and does not distract you by being concerned about the looks of the document.
 
 I am not an Overleaf/Latex maniac and I don't use it for everything. However, I strongly believe that CS/IT students should learn it once while at university. Even just to know that such an alternative to Word/Writer exists and that they are widely used.
