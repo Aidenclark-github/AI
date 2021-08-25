@@ -1,10 +1,15 @@
-# Week-by-week course schedule (tentative)
+# Week-by-week course topics (tentative)
 
-## Upcoming meetings (topics to discuss)
+Please see Canvas to check the deadlines for submitting concept-maps, homeworks, project phases, and to take quizzes.
+
+## Upcoming meetings
 
 ### 08/25/2021 (online)
 - Project and its phases
 - Poster session
+- Demo of Google Colab
+- Demo of Overleaf
+- Why graduate students see the course as 4300?
 - Practice Activity 1 in NN-TF
 - Q&A
 
@@ -22,7 +27,7 @@
 
 <hr>
 
-## Past meetings (topics discussed)
+## Past meetings 
 ### 08/23/2021 (in-person)
 - Overview of syllabus
 - NN crash course
