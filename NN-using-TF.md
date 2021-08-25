@@ -10,7 +10,7 @@ This is a mini crash course on using Tensorflow to develop feed-forward neural n
 
 In this activity, the task is to learn how to use [Google Colab](https://colab.research.google.com) and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3) you are welcome to take the [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) course, the world's most popular online course.  
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
-* Notebooks: [Python3](https://nbviewer.jupyter.org/url/badriadhikari.github.io/AI/notebooks/python.ipynb)
+* Notebooks: [Python3](https://nbviewer.jupyter.org/url/https://github.com/badriadhikari/AI/notebooks/python.ipynb)
 
 * Alternatives to Google Colab: [Kaggle Notebooks](https://www.kaggle.com/code), [Local Installation](https://www.anaconda.com/products/individual) 
 
@@ -19,7 +19,7 @@ In this activity, the task is to learn how to use [Google Colab](https://colab.r
 
 In this activity, the task is to practice Numpy, Matplotlib, Plotly, Pandas for basic data analysis, and techniques of data cleaning and data normalization.
 * Lectures: [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA), [Data normalization](https://youtu.be/Tu8Dl3zorgg), and [Data cleaning](https://youtu.be/0bj6KbEUJ_o)
-* Notebooks: [Numpy](https://nbviewer.jupyter.org/url/badriadhikari.github.io/AI/notebooks/numpy.ipynb), [Matplotlib & Plotly](https://nbviewer.jupyter.org/url/badriadhikari.github.io/AI/notebooks/matplotlib_plotly.ipynb), [Pandas](https://nbviewer.jupyter.org/url/badriadhikari.github.io/AI/notebooks/pandas.ipynb), and [Normalization techniques](https://nbviewer.jupyter.org/url/badriadhikari.github.io/AI/notebooks/normalization_techniques.ipynb)
+* Notebooks: [Numpy](https://nbviewer.jupyter.org/url/https://github.com/badriadhikari/AI/notebooks/numpy.ipynb), [Matplotlib & Plotly](https://nbviewer.jupyter.org/url/https://github.com/badriadhikari/AI/notebooks/matplotlib_plotly.ipynb), [Pandas](https://nbviewer.jupyter.org/url/https://github.com/badriadhikari/AI/notebooks/pandas.ipynb), and [Normalization techniques](https://nbviewer.jupyter.org/url/https://github.com/badriadhikari/AI/notebooks/normalization_techniques.ipynb)
 
 
 ## Activity 3: Create your own IMDB movie dataset
@@ -51,14 +51,14 @@ Please find at least 100 movies at [IMDB](https://www.imdb.com/). You can choose
 
 In this activity, the goal is to practice logistic regression on a dataset with more than one input variables. When selecting a variable (column) for performing logistic regression, it is important to select a binary variable as the output variable. In other words, the values of this variable must be 0 or 1, nothing else. Before feeding the data to the model, it is often important to normalize/standardize your input dataset. You may need to normalize your data for classification to work. Here, the task is to perform logistic regression on your classification dataset.   
 * Lectures: [Logistic regression](https://youtu.be/KEYgPOcqmsw) and [Data normalization](https://youtu.be/Tu8Dl3zorgg)
-* Notebook: [Logistic regression](https://nbviewer.jupyter.org/url/badriadhikari.github.io/AI/notebooks/Logistic_regression.ipynb)
+* Notebook: [Logistic regression](https://nbviewer.jupyter.org/url/https://github.com/badriadhikari/AI/notebooks/Logistic_regression.ipynb)
 
 ## Activity 5: Binary classification using neural networks
 
 In this activity, the goal is to practice training a neural network model to perform binary classification. A neural network classifier should be more accurate than a basic logistic regression model. This is because a neural network model has more parameters (weights and biases) to learn the patterns in the data. A binary classifier can be evaluated using metrics such as accuracy, precision, and recall. Interpreting the accuracy of a binary classifier can be tricky. This is because the baseline accuracy, i.e., minimum accuracy, is at least 50%. A good classifier should result in an accuracy that is much higher than a baseline accuracy. The tasks in this activity are (i) Build a neural network classifier for your dataset, (ii) Evaluate your model using accuracy, precision, and recall, (iii) Compare the accuracy of your model with the baseline accuracy, and (iv) Compare the performance of the neural network with a logistic regression model.
 * Lectures: [Binary classification](https://youtu.be/PM6uvCLyeXM)
 * Articles: [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
-* Notebook: [Binary classification](https://nbviewer.jupyter.org/url/badriadhikari.github.io/AI/notebooks/Binary_classification.ipynb)
+* Notebook: [Binary classification](https://nbviewer.jupyter.org/url/https://github.com/badriadhikari/AI/notebooks/Binary_classification.ipynb)
 
 ## Activity 6: Overfitting vs generalization
 
@@ -202,7 +202,7 @@ Assumption: You already know (tentatively) what hyperparameters are good for you
 ## Univariate linear regression
 In this activity, the goal is to practice univariate linear regression. When selecting variables (columns) for performing linear regression, it is important to choose continuous variables and not binary variables. Before feeding the data to the regression model, it is often important to normalize/standardize your input dataset. You may need to normalize your data for regression to work. Here, the task is to perform univariate linear regression on a dataset of your choice (other than the 'pima-diabetes' dataset).  
 * Lectures: [Univariate Linear Regression](https://youtu.be/yH7AUm2EHTM)
-* Notebook: [Univariate Linear Regression](https://nbviewer.jupyter.org/url/badriadhikari.github.io/AI/notebooks/Univariate_linear_regression.ipynb)
+* Notebook: [Univariate Linear Regression](https://nbviewer.jupyter.org/url/https://github.com/badriadhikari/AI/notebooks/Univariate_linear_regression.ipynb)
 
 ## Learning with missing values & noisy data
 * In this activity, we will investigate the impact of "amount of data" and missing/noisy data
