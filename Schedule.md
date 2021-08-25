@@ -5,11 +5,11 @@
 ### 08/25/2021 (online)
 - Project and its phases
 - Poster session
-- Practice Python
+- Practice Activity 1 in NN-TF
 - Q&A
 
 ### 08/30/2021 (in-person)
-- Practice Python
+- Practice Activity 1 & 2 in NN-TF
 - Guest lecture by Gopi Chandrakeshan
 
 <hr>
