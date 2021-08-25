@@ -17,8 +17,8 @@
 .
 .
 
-### 12/13/2021 (in-person)
-- Poster presentation session at SSB 410 (7:45 PM to 9:45 PM) 
+### 12/13/2021 (in-person final exam)
+- **Poster presentation session** at SSB 410 (7:45 PM to 9:45 PM) 
 
 <hr>
 
