@@ -12,16 +12,14 @@
 - Practice Python
 - Guest lecture by Gopi Chandrakeshan
 
-<span style="color:blue">
+<hr>
+
 ## Past meetings (topics discussed)
 ### 08/23/2021 (in-person)
 - Overview of syllabus
 - NN crash course
 - Why start from Chapter 18?
 - Things to do in St. Louis (for new students)
-
-
-</span>
 
 <!--
 1. **01/28**
