@@ -12,7 +12,7 @@
 - Practice Python
 - Guest lecture by Gopi Chandrakeshan
 
-
+<span style="color:blue">
 ## Past meetings (topics discussed)
 ### 08/23/2021 (in-person)
 - Overview of syllabus
@@ -21,7 +21,7 @@
 - Things to do in St. Louis (for new students)
 
 
-
+</span>
 
 <!--
 1. **01/28**
