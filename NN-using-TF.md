@@ -192,15 +192,12 @@ Assumption: You already know (tentatively) what hyperparameters are good for you
    b. Y-axis is accuracy or MAE of the validation set  
    <img src="./supporting-files/nn-tf/feature_removal.png" align="middle" width="550" border="2"/>  
 
-# Datasets refereed
-<hr style="border-width:4px;">
-1. [Pima diabetes dataset](../data/pima-diabetes.csv)
-1. [Wine quality dataset](../data/winequality-red.csv)
+# Datasets discussed
 
-<hr>
+1. [Pima diabetes dataset](../data/pima-diabetes.csv)  
+1. [Wine quality dataset](../data/winequality-red.csv)  
 
 # Optional Activities
-<hr style="border-width:4px;">
 
 ## Univariate linear regression
 In this activity, the goal is to practice univariate linear regression. When selecting variables (columns) for performing linear regression, it is important to choose continuous variables and not binary variables. Before feeding the data to the regression model, it is often important to normalize/standardize your input dataset. You may need to normalize your data for regression to work. Here, the task is to perform univariate linear regression on a dataset of your choice (other than the 'pima-diabetes' dataset).  
