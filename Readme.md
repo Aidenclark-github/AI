@@ -9,6 +9,7 @@
 - [NN-using-TF](NN-using-TF.md)
 - [Project](Project.md)
 - [Schedule](Schedule.md)
+- [Example posters](./supporting-files/poster-examples/)
 
 Sections in the main syllabus (this) page:
 
@@ -31,7 +32,6 @@ Sections in the main syllabus (this) page:
   * [Using Overleaf](#using-overleaf)
   * [Resources](#resources)
   * [What other students (who took this course) say](#what-other-students--who-took-this-course--say)
-<hr>
 
 ## Instructor & contact information
 
