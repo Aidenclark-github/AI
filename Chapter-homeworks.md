@@ -60,7 +60,7 @@ Expected output:
 ```
 
 ## Chapter 5 - Alpha-beta pruning
-This is not a programming activity, you will solve it in paper (or in computer, if you prefer). For the following game tree show the values of α and β for all the non-leaf nodes (task 1) and show which nodes/sub-tree will be pruned (task 2) by the Alpha-Beta pruning algorithm. 
+This is not a programming activity, you will solve it in paper (or in computer, if you prefer). For the following game tree show the values of α and β for all the non-leaf nodes (task 1) and show which nodes/sub-tree will be pruned (task 2) by the Alpha-Beta pruning algorithm. Assume that MAX plays first at node A.
 
 * Lectures: [Alpha-beta pruning algorithm](https://www.youtube.com/watch?v=n6mbgKICrVU)
 
