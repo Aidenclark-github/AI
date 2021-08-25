@@ -8,7 +8,7 @@ This page shows screenshots of some of the posters presented by students who too
 <p align="center"> <img src="./poster2018-4.jpg" align="middle" width=""/> </p>
 <p align="center"> <img src="./poster2018-5.jpg" align="middle" width=""/> </p>
 <p align="center"> <img src="./poster2018-6.jpg" align="middle" width=""/> </p>
-<p align="center"> <img src="./poster2018.jpg" align="middle" width=""/> </p>
+<p align="center"> <img src="./poster2018.gif" align="middle" width=""/> </p>
 
 <p align="center"> <img src="./poster2019-1.jpg" align="middle" width=""/> </p>
 <p align="center"> <img src="./poster2019-2.jpg" align="middle" width=""/> </p>
