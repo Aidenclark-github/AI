@@ -12,6 +12,14 @@
 - Practice Activity 1 & 2 in NN-TF
 - Guest lecture by Gopi Chandrakeshan
 
+
+.
+.
+.
+
+### 12/13/2021 (in-person)
+- Poster presentation session at SSB 410 (7:45 PM to 9:45 PM) 
+
 <hr>
 
 ## Past meetings (topics discussed)
