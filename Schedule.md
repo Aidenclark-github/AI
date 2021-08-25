@@ -1,12 +1,24 @@
 # Week-by-week course schedule (tentative)
 
-**08/23/2021**
-   - Meeting topics: Syllabus + NN crash course + Why start from Chapter 18?
-   - Due next week:
-      - Concept map homework: None
-      - Quiz: None
-      - Chapter homework: None
-      - Project: None
+## Upcoming meetings (topics to discuss)
+
+### 08/25/2021 (online)
+- Project and its phases
+- Poster session
+- Practice Python
+- Q&A
+
+### 08/30/2021 (in-person)
+- Practice Python
+- Guest lecture by Gopi Chandrakeshan
+
+
+## Past meetings (topics discussed)
+### 08/23/2021 (in-person)
+- Overview of syllabus
+- NN crash course
+- Why start from Chapter 18?
+- Things to do in St. Louis (for new students)
 
 
 
