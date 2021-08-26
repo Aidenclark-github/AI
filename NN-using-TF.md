@@ -9,9 +9,9 @@ This is a mini crash course on using Tensorflow to develop feed-forward neural n
 ## Activity 1: Practice Python3
 
 In this activity, the task is to learn how to use [Google Colab](https://colab.research.google.com) and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3) you are welcome to take the [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) course, the world's most popular online course.  
+
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
 * Notebooks: [Python3](https://nbviewer.jupyter.org/github/badriadhikari/AI/blob/main/notebooks/python.ipynb)
-
 * Alternatives to Google Colab: [Kaggle Notebooks](https://www.kaggle.com/code), [PyCharm with a .edu account](https://www.jetbrains.com/community/education/#students), [Local Installation](https://www.anaconda.com/products/individual) 
 
 
