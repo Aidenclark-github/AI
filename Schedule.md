@@ -4,15 +4,6 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ## Upcoming meetings
 
-### 08/25/2021 (online)
-- Project and its phases
-- Poster session
-- Demo of Google Colab
-- Demo of Overleaf
-- Why graduate students see the course as 4300?
-- Practice Activity 1 in NN-TF
-- Q&A
-
 ### 08/30/2021 (in-person)
 - Practice Activity 1 & 2 in NN-TF
 - Guest lecture by Gopi Chandrakeshan
@@ -33,6 +24,17 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 - NN crash course
 - Why start from Chapter 18?
 - Things to do in St. Louis (for new students)
+
+### 08/25/2021 (online)
+- Project and its phases
+- Poster session
+- Demo of Google Colab
+- Sharing Colab Notebook link
+- Demo of Overleaf
+- How to ask help when stuck? The 1 hour rule
+- Why graduate students see the course as 4300?
+- Practice Activity 1 in NN-TF
+- Q&A
 
 <!--
 1. **01/28**
