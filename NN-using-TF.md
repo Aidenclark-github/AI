@@ -12,7 +12,7 @@ In this activity, the task is to learn how to use [Google Colab](https://colab.r
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
 * Notebooks: [Python3](https://nbviewer.jupyter.org/github/badriadhikari/AI/blob/main/notebooks/python.ipynb)
 
-* Alternatives to Google Colab: [Kaggle Notebooks](https://www.kaggle.com/code), [Local Installation](https://www.anaconda.com/products/individual) 
+* Alternatives to Google Colab: [Kaggle Notebooks](https://www.kaggle.com/code), [PyCharm with a .edu account](https://www.jetbrains.com/community/education/#students), [Local Installation](https://www.anaconda.com/products/individual) 
 
 
 ## Activity 2: Practice Numpy, Matplotlib, and Pandas
