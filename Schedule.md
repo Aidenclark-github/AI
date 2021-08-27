@@ -6,6 +6,7 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ### 08/30/2021 (in-person)
 - Practice Activity 1 & 2 in NN-TF
+- [UMSL Counseling services](http://www.umsl.edu/hcdas/counseling/)
 - Guest lecture by Gopi Chandrakeshan
 
 
