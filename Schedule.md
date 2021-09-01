@@ -9,6 +9,10 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 - [UMSL Counseling services](http://www.umsl.edu/hcdas/counseling/)
 - Guest lecture by Gopi Chandrakeshan
 
+### 09/01/2021 (online)
+- Amulya will present how she completed the IMDB activity
+- Practice activities 3 and 4
+
 
 .
 .
