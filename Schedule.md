@@ -4,14 +4,9 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ## Upcoming meetings
 
-### 08/30/2021 (in-person)
-- Practice Activity 1 & 2 in NN-TF
-- [UMSL Counseling services](http://www.umsl.edu/hcdas/counseling/)
-- Guest lecture by Gopi Chandrakeshan
+### 09/08/2021 (online)
+- Discussion of Project Phase I (which is due the following Monday)
 
-### 09/01/2021 (online)
-- Amulya will present how she completed the IMDB activity
-- Practice activities 3 and 4
 
 
 .
@@ -40,6 +35,16 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 - Why graduate students see the course as 4300?
 - Practice Activity 1 in NN-TF
 - Q&A
+
+### 08/30/2021 (in-person)
+- Practice Activity 1 & 2 in NN-TF
+- [UMSL Counseling services](http://www.umsl.edu/hcdas/counseling/)
+- Guest lecture by Gopi Chandrakeshan
+
+### 09/01/2021 (online)
+- Amulya will present how she completed the IMDB activity
+- Practice activities 3 and 4
+- QnA
 
 <!--
 1. **01/28**
