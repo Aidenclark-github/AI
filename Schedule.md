@@ -7,6 +7,7 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 ### 09/08/2021 (online)
 - Discussion of accuracy on Activity 4, 5, and 6.
 - Discussion of Project Phase I (which is due the following Monday)
+- Access code for Quiz of Chapter 18
 
 
 
