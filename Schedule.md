@@ -4,10 +4,9 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ## Upcoming meetings
 
-### 09/08/2021 (online)
-- Discussion of accuracy on Activity 4, 5, and 6.
-- Discussion of Project Phase I (which is due the following Monday)
-- Access code for Quiz of Chapter 18
+### 09/13/2021 (in-person)
+- Help the class complete activities 4 and 5.
+- Answer questions about project phase I.
 
 
 
@@ -47,6 +46,11 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 - Amulya will present how she completed the IMDB activity
 - Practice activities 3 and 4
 - QnA
+
+### 09/08/2021 (online)
+- Discussion of accuracy on Activity 4, 5, and 6.
+- Discussion of Project Phase I (which is due the following Monday)
+- Access code for Quiz of Chapter 18
 
 <!--
 1. **01/28**
