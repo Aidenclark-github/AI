@@ -4,7 +4,7 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ## Upcoming meetings
 
-### 08/23/2021
+### 09/15/2021
 - QnA
 
 
