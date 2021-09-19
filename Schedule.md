@@ -19,7 +19,7 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 <hr>
 
-## Past meetings 
+# Past meetings 
 ### 08/23/2021 (in-person)
 - Overview of syllabus
 - NN crash course
