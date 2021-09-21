@@ -4,11 +4,11 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ## Upcoming meetings
 
+### 09/20/2021 (online)
+- QnA
+
 ### 09/20/2021 (in-person)
 - Discuss Project Phase I submissions, mistakes, and corrections
-
-
-
 
 .
 .
