@@ -12,6 +12,9 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 ### 10/04/2021 (in-person)
 - QnA
 
+### 10/06/2021 (online)
+- No Meeting
+
 ### 10/11/2021 (in-person)
 - Mid-term test
 
