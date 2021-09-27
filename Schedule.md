@@ -7,6 +7,7 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 ### 09/27/2021 (in-person)
 - Discussion of Homework on BFS
 - Discussion of Project Phase II
+- Test SmarterProctorio
 
 ### 10/04/2021 (in-person)
 - QnA
