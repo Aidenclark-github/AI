@@ -4,15 +4,18 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ## Upcoming meetings
 
-### 09/20/2021 (online)
+### 09/27/2021 (in-person)
+- Discussion of Homework on BFS
+- Discussion of Project Phase II
+
+### 10/04/2021 (in-person)
 - QnA
 
-### 09/20/2021 (in-person)
-- Discuss Project Phase I submissions, mistakes, and corrections
+### 10/11/2021 (in-person)
+- Mid-term test
 
-.
-.
-.
+### 11/29/2021 (in-person)
+- Final test
 
 ### 12/13/2021 (in-person final exam)
 - **Poster presentation session** at SSB 410 (7:45 PM to 9:45 PM) 
@@ -59,3 +62,8 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 ### 09/15/2021 (online)
 - QnA
 
+### 09/20/2021 (in-person)
+- Discuss Project Phase I submissions, mistakes, and corrections
+
+### 09/22/2021 (online)
+- QnA
