@@ -4,10 +4,8 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ## Upcoming meetings
 
-### 09/27/2021 (in-person)
-- Discussion of Homework on BFS
-- Discussion of Project Phase II
-- Test SmarterProctorio in your laptops
+### 09/27/2021 (online)
+- Optional to attend, please join if you have questions
 
 ### 10/04/2021 (in-person)
 - QnA
@@ -71,3 +69,9 @@ Please see Canvas to check the deadlines for submitting concept-maps, homeworks,
 
 ### 09/22/2021 (online)
 - QnA
+
+### 09/27/2021 (in-person)
+- Discussion of Homework on BFS
+- Discussion of Project Phase II
+- Test SmarterProctorio in your laptops
+
